@@ -336,7 +336,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.2.5] - 2021-09-27
 
-### Fixed
+### Fixed 
 
 - Bug in records
     - When the records tab was left and returned to multiple times, the total points column would eventually become NaN (as reported in issue [#77](https://github.com/nmelhado/league-page/issues/77) by [OldNewsBlues](https://github.com/OldNewsBlues))
